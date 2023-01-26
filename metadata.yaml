@@ -1,0 +1,12 @@
+id: com.echkode.pbmods.disableunitchecks
+ver: 1
+includesConfigOverrides: false
+includesConfigEdits: true
+includesLibraries: false
+includesTextures: false
+includesLocalizationEdits: false
+includesLocalizations: false
+gameVersionMin:
+gameVersionMax:
+name: Disable Unit Checks
+desc: Disable unit sanity checks (dangerous!)

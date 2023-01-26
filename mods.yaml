@@ -1,0 +1,5 @@
+enabled: true
+loadFromApplicationPath: false
+list:
+- directory: DisableUnitChecks
+  enabled: true
